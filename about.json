@@ -1,9 +1,9 @@
 {
   "name": "Like Column",
   "component": true,
-  "license_url": https://github.com/Dax74/like-column/blob/master/LICENSE,
+  "license_url": "https://github.com/Dax74/like-column/blob/master/LICENSE",
   "about_url": null,
-  "authors": https://meta.discourse.org/u/Dax/summary,
+  "authors": "https://meta.discourse.org/u/Dax/summary",
   "theme_version": null,
   "minimum_discourse_version": null, 
   "maximum_discourse_version": null
