@@ -2,4 +2,4 @@
 
 Add the Like column to the **/latest** homepage of your Discourse site
 
-For reference see {link}
+Documentation at [Add Likes column - Discourse Meta](https://meta.discourse.org/t/add-likes-column/116416)
