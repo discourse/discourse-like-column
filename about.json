@@ -3,8 +3,5 @@
   "component": true,
   "license_url": "https://github.com/discourse/discourse-like-column/blob/main/LICENSE",
   "about_url": null,
-  "authors": "Dax",
-  "theme_version": null,
-  "minimum_discourse_version": null, 
-  "maximum_discourse_version": null
+  "authors": "Dax"
 }
