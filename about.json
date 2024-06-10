@@ -1,7 +1,7 @@
 {
-  "name": "Like Column",
+  "name": "Add Like Column",
   "component": true,
   "license_url": "https://github.com/discourse/discourse-like-column/blob/main/LICENSE",
-  "about_url": null,
+  "about_url": "https://meta.discourse.org/t/add-like-column/116416",
   "authors": "Dax"
 }
