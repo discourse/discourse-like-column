@@ -1,7 +1,7 @@
 import HeaderLikesCell from "discourse/components/topic-list/header/likes-cell";
 import ItemLikesCell from "discourse/components/topic-list/item/likes-cell";
 import { apiInitializer } from "discourse/lib/api";
-import { withSilencedDeprecations } from "discourse-common/lib/deprecated";
+import { withSilencedDeprecations } from "discourse/lib/deprecated";
 
 export default apiInitializer("0.8", (api) => {
   api.registerValueTransformer("topic-list-columns", ({ value: columns }) => {
