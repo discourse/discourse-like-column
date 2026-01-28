@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-RSpec.describe "Like column", type: :system do
+RSpec.describe "Like column" do
   fab!(:theme) { upload_theme_component }
   fab!(:category)
   fab!(:topics) do
